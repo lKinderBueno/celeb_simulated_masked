@@ -1,4 +1,4 @@
-# celeb_simulated_masked
+# Celeb Simulated Masked dataset
 
 <img src="https://github.com/lKinderBueno/celeb_simulated_masked/blob/c45c36949f8514c1b4b3b11791632b658c883eb2/CMS.png?raw=true" width="370" height="260">
 
