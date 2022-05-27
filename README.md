@@ -9,8 +9,8 @@ Esso è stato generato a partire dal dataset MS-CELEB-1M, dal quale sono state e
 Una volta effettuata l’estrazione si è applicato Mask The Face, generando così 4 immagini con 4 tipi di mascherine diverse per identità. 
 
 Il dataset si presenta diviso in 5 classi per identità:
-(1)    Unmasked: Immagine del soggetto senza mascherina
-(2)    Mask type 1: Immagine del soggetto avente una mascherina chirurgica bianca.
-(3)    Mask type 2: Immagine del soggetto avente una mascherina di tessuto nera
-(4)    Mask type 3: Immagine del soggetto avente una mascherina FFP2 blu
-(5)    Mask type 4: Immagine del soggetto avente una mascherina di tessuto rossa
+*    Unmasked: Immagine del soggetto senza mascherina
+*    Mask type 1: Immagine del soggetto avente una mascherina chirurgica bianca.
+*    Mask type 2: Immagine del soggetto avente una mascherina di tessuto nera
+*    Mask type 3: Immagine del soggetto avente una mascherina FFP2 blu
+*    Mask type 4: Immagine del soggetto avente una mascherina di tessuto rossa
